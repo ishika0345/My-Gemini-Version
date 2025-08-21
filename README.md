@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My-Gemini-Version
 =======
 # React + Vite
